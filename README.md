@@ -14,7 +14,7 @@
 первого уровня, две для второго и так далее;<br/>
 + между решёткой и текстом ставится пробел.
 
-[Ссылка на руководство Github по Markdown](https://gist.github.com/Jekins/2bf2d0638163f1294637)
+[Ссылка на руководство Github по Markdown](https://gist.github.com/Jekins/2bf2d0638163f1294637)<br/>
 [ссылка на файл HELP.md](HELP.md)<br/>
 ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png)
 
