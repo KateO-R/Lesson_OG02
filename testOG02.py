@@ -1,2 +1,3 @@
 print("Test")
-print("Demonstration")
+print("Demo")
+
